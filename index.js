@@ -45,11 +45,14 @@ TLDs.split('\n').forEach((tld) => {
 for (let [tld, fdomains] of Object.entries(domains)) {
     let markdown = `# Possible domains for ${tld}\n\nNo function implemented to check if any of these work, but you can check manually with https://tld-list.com/\n\n| Domain | Porkbun | NameCheap | Google Domains |\n|---|---|---|---|\n`
 
+    let domainCount = 0
+
     fdomains.forEach(domain => {
+        domainCount += 1
         markdown = markdown.concat(`| ${domain} | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=${domain}) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=${domain}) | [Google](https://domains.google.com/registrar/search?searchTerm=${domain}) |\n`)
     })
 
-    fs.writeFileSync(`./domains/${tld}.md`, markdown)
+    if (domainCount > 1 ) fs.writeFileSync(`./domains/${tld}.md`, markdown)
 }
 
 console.log('Probably done')
