@@ -1,0 +1,22 @@
+# Possible domains for UG
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| a.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=a.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=a.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=a.ug) |
+| dr.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=dr.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=dr.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=dr.ug) |
+| b.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=b.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=b.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=b.ug) |
+| pl.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pl.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pl.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=pl.ug) |
+| do.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=do.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=do.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=do.ug) |
+| deb.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=deb.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=deb.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=deb.ug) |
+| r.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=r.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=r.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=r.ug) |
+| m.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=m.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=m.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=m.ug) |
+| smugm.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=smugm.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=smugm.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=smugm.ug) |
+| .ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=.ug) |
+| h.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=h.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=h.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=h.ug) |
+| l.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=l.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=l.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=l.ug) |
+| il.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=il.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=il.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=il.ug) |
+| d.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=d.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=d.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=d.ug) |
+| sl.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=sl.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=sl.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=sl.ug) |
+| th.ug | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=th.ug) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=th.ug) | [Google](https://domains.google.com/registrar/search?searchTerm=th.ug) |

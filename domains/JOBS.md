@@ -1,0 +1,10 @@
+# Possible domains for JOBS
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .jobs | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.jobs) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.jobs) | [Google](https://domains.google.com/registrar/search?searchTerm=.jobs) |
+| blow.jobs | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=blow.jobs) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=blow.jobs) | [Google](https://domains.google.com/registrar/search?searchTerm=blow.jobs) |
+| hand.jobs | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=hand.jobs) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=hand.jobs) | [Google](https://domains.google.com/registrar/search?searchTerm=hand.jobs) |
+| hot.jobs | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=hot.jobs) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=hot.jobs) | [Google](https://domains.google.com/registrar/search?searchTerm=hot.jobs) |

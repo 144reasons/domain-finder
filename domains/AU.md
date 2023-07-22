@@ -1,0 +1,21 @@
+# Possible domains for AU
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.au) | [Google](https://domains.google.com/registrar/search?searchTerm=.au) |
+| bure.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=bure.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=bure.au) | [Google](https://domains.google.com/registrar/search?searchTerm=bure.au) |
+| e.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=e.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=e.au) | [Google](https://domains.google.com/registrar/search?searchTerm=e.au) |
+| pal.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pal.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pal.au) | [Google](https://domains.google.com/registrar/search?searchTerm=pal.au) |
+| mac.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=mac.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=mac.au) | [Google](https://domains.google.com/registrar/search?searchTerm=mac.au) |
+| biss.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=biss.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=biss.au) | [Google](https://domains.google.com/registrar/search?searchTerm=biss.au) |
+| chate.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=chate.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=chate.au) | [Google](https://domains.google.com/registrar/search?searchTerm=chate.au) |
+| nass.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=nass.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=nass.au) | [Google](https://domains.google.com/registrar/search?searchTerm=nass.au) |
+| t.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=t.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=t.au) | [Google](https://domains.google.com/registrar/search?searchTerm=t.au) |
+| tokel.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=tokel.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=tokel.au) | [Google](https://domains.google.com/registrar/search?searchTerm=tokel.au) |
+| plate.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=plate.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=plate.au) | [Google](https://domains.google.com/registrar/search?searchTerm=plate.au) |
+| d.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=d.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=d.au) | [Google](https://domains.google.com/registrar/search?searchTerm=d.au) |
+| nouve.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=nouve.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=nouve.au) | [Google](https://domains.google.com/registrar/search?searchTerm=nouve.au) |
+| be.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=be.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=be.au) | [Google](https://domains.google.com/registrar/search?searchTerm=be.au) |
+| fr.au | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=fr.au) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=fr.au) | [Google](https://domains.google.com/registrar/search?searchTerm=fr.au) |

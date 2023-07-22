@@ -1,0 +1,20 @@
+# Possible domains for NI
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| mi.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=mi.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=mi.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=mi.ni) |
+| alum.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=alum.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=alum.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=alum.ni) |
+| biki.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=biki.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=biki.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=biki.ni) |
+| .ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=.ni) |
+| u.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=u.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=u.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=u.ni) |
+| gemi.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=gemi.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=gemi.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=gemi.ni) |
+| om.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=om.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=om.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=om.ni) |
+| to.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=to.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=to.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=to.ni) |
+| giovan.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=giovan.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=giovan.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=giovan.ni) |
+| pakista.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pakista.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pakista.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=pakista.ni) |
+| arma.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=arma.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=arma.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=arma.ni) |
+| marti.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=marti.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=marti.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=marti.ni) |
+| stefa.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=stefa.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=stefa.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=stefa.ni) |
+| lamborghi.ni | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=lamborghi.ni) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=lamborghi.ni) | [Google](https://domains.google.com/registrar/search?searchTerm=lamborghi.ni) |

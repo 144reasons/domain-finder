@@ -1,0 +1,19 @@
+# Possible domains for WED
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=.wed) |
+| allo.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=allo.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=allo.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=allo.wed) |
+| vie.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=vie.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=vie.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=vie.wed) |
+| follo.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=follo.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=follo.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=follo.wed) |
+| revie.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=revie.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=revie.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=revie.wed) |
+| sho.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=sho.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=sho.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=sho.wed) |
+| intervie.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=intervie.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=intervie.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=intervie.wed) |
+| rene.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=rene.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=rene.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=rene.wed) |
+| borro.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=borro.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=borro.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=borro.wed) |
+| scre.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=scre.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=scre.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=scre.wed) |
+| o.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=o.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=o.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=o.wed) |
+| fla.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=fla.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=fla.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=fla.wed) |
+| slo.wed | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=slo.wed) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=slo.wed) | [Google](https://domains.google.com/registrar/search?searchTerm=slo.wed) |

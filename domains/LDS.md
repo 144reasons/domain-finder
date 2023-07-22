@@ -1,0 +1,20 @@
+# Possible domains for LDS
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| fie.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=fie.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=fie.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=fie.lds) |
+| ho.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ho.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ho.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=ho.lds) |
+| wor.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=wor.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=wor.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=wor.lds) |
+| househo.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=househo.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=househo.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=househo.lds) |
+| reyno.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=reyno.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=reyno.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=reyno.lds) |
+| handhe.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=handhe.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=handhe.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=handhe.lds) |
+| bui.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=bui.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=bui.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=bui.lds) |
+| yie.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=yie.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=yie.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=yie.lds) |
+| o.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=o.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=o.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=o.lds) |
+| shie.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=shie.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=shie.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=shie.lds) |
+| fo.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=fo.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=fo.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=fo.lds) |
+| .lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=.lds) |
+| thresho.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=thresho.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=thresho.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=thresho.lds) |
+| chi.lds | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=chi.lds) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=chi.lds) | [Google](https://domains.google.com/registrar/search?searchTerm=chi.lds) |

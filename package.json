@@ -1,0 +1,15 @@
+{
+  "name": "domain-finder",
+  "version": "1.0.0",
+  "description": "Creates a list of domains that use top level domains to form a word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "see LICENSE",
+  "dependencies": {
+    "got": "^13.0.0"
+  }
+}

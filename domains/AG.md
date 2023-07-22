@@ -1,0 +1,20 @@
+# Possible domains for AG
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| b.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=b.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=b.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=b.ag) |
+| fl.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=fl.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=fl.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=fl.ag) |
+| t.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=t.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=t.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=t.ag) |
+| .ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=.ag) |
+| dr.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=dr.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=dr.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=dr.ag) |
+| m.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=m.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=m.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=m.ag) |
+| handb.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=handb.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=handb.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=handb.ag) |
+| next.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=next.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=next.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=next.ag) |
+| g.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=g.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=g.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=g.ag) |
+| verl.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=verl.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=verl.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=verl.ag) |
+| l.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=l.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=l.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=l.ag) |
+| st.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=st.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=st.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=st.ag) |
+| r.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=r.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=r.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=r.ag) |
+| d.ag | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=d.ag) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=d.ag) | [Google](https://domains.google.com/registrar/search?searchTerm=d.ag) |

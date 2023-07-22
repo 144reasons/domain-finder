@@ -1,0 +1,21 @@
+# Possible domains for SK
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| a.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=a.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=a.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=a.sk) |
+| ri.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ri.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ri.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=ri.sk) |
+| ta.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ta.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ta.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=ta.sk) |
+| di.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=di.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=di.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=di.sk) |
+| de.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=de.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=de.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=de.sk) |
+| ma.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ma.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ma.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=ma.sk) |
+| .sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=.sk) |
+| sandi.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=sandi.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=sandi.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=sandi.sk) |
+| asteri.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=asteri.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=asteri.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=asteri.sk) |
+| helpde.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=helpde.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=helpde.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=helpde.sk) |
+| s.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=s.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=s.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=s.sk) |
+| du.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=du.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=du.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=du.sk) |
+| autode.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=autode.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=autode.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=autode.sk) |
+| kio.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=kio.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=kio.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=kio.sk) |
+| dan.sk | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=dan.sk) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=dan.sk) | [Google](https://domains.google.com/registrar/search?searchTerm=dan.sk) |

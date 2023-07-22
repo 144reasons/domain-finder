@@ -1,0 +1,17 @@
+# Possible domains for HOUSE
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.house) | [Google](https://domains.google.com/registrar/search?searchTerm=.house) |
+| ware.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ware.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ware.house) | [Google](https://domains.google.com/registrar/search?searchTerm=ware.house) |
+| green.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=green.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=green.house) | [Google](https://domains.google.com/registrar/search?searchTerm=green.house) |
+| light.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=light.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=light.house) | [Google](https://domains.google.com/registrar/search?searchTerm=light.house) |
+| court.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=court.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=court.house) | [Google](https://domains.google.com/registrar/search?searchTerm=court.house) |
+| clearing.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=clearing.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=clearing.house) | [Google](https://domains.google.com/registrar/search?searchTerm=clearing.house) |
+| town.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=town.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=town.house) | [Google](https://domains.google.com/registrar/search?searchTerm=town.house) |
+| pent.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pent.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pent.house) | [Google](https://domains.google.com/registrar/search?searchTerm=pent.house) |
+| club.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=club.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=club.house) | [Google](https://domains.google.com/registrar/search?searchTerm=club.house) |
+| farm.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=farm.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=farm.house) | [Google](https://domains.google.com/registrar/search?searchTerm=farm.house) |
+| play.house | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=play.house) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=play.house) | [Google](https://domains.google.com/registrar/search?searchTerm=play.house) |

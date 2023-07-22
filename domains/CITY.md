@@ -1,0 +1,17 @@
+# Possible domains for CITY
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.city) | [Google](https://domains.google.com/registrar/search?searchTerm=.city) |
+| capa.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=capa.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=capa.city) | [Google](https://domains.google.com/registrar/search?searchTerm=capa.city) |
+| electri.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=electri.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=electri.city) | [Google](https://domains.google.com/registrar/search?searchTerm=electri.city) |
+| velo.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=velo.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=velo.city) | [Google](https://domains.google.com/registrar/search?searchTerm=velo.city) |
+| publi.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=publi.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=publi.city) | [Google](https://domains.google.com/registrar/search?searchTerm=publi.city) |
+| ethni.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ethni.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ethni.city) | [Google](https://domains.google.com/registrar/search?searchTerm=ethni.city) |
+| toxi.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=toxi.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=toxi.city) | [Google](https://domains.google.com/registrar/search?searchTerm=toxi.city) |
+| simpli.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=simpli.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=simpli.city) | [Google](https://domains.google.com/registrar/search?searchTerm=simpli.city) |
+| specifi.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=specifi.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=specifi.city) | [Google](https://domains.google.com/registrar/search?searchTerm=specifi.city) |
+| authenti.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=authenti.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=authenti.city) | [Google](https://domains.google.com/registrar/search?searchTerm=authenti.city) |
+| travelo.city | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=travelo.city) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=travelo.city) | [Google](https://domains.google.com/registrar/search?searchTerm=travelo.city) |

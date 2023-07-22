@@ -1,0 +1,20 @@
+# Possible domains for LI
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.li) | [Google](https://domains.google.com/registrar/search?searchTerm=.li) |
+| israe.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=israe.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=israe.li) | [Google](https://domains.google.com/registrar/search?searchTerm=israe.li) |
+| a.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=a.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=a.li) | [Google](https://domains.google.com/registrar/search?searchTerm=a.li) |
+| ba.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ba.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ba.li) | [Google](https://domains.google.com/registrar/search?searchTerm=ba.li) |
+| ma.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ma.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ma.li) | [Google](https://domains.google.com/registrar/search?searchTerm=ma.li) |
+| chi.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=chi.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=chi.li) | [Google](https://domains.google.com/registrar/search?searchTerm=chi.li) |
+| co.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=co.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=co.li) | [Google](https://domains.google.com/registrar/search?searchTerm=co.li) |
+| de.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=de.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=de.li) | [Google](https://domains.google.com/registrar/search?searchTerm=de.li) |
+| e.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=e.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=e.li) | [Google](https://domains.google.com/registrar/search?searchTerm=e.li) |
+| tivo.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=tivo.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=tivo.li) | [Google](https://domains.google.com/registrar/search?searchTerm=tivo.li) |
+| s.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=s.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=s.li) | [Google](https://domains.google.com/registrar/search?searchTerm=s.li) |
+| c.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=c.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=c.li) | [Google](https://domains.google.com/registrar/search?searchTerm=c.li) |
+| stimu.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=stimu.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=stimu.li) | [Google](https://domains.google.com/registrar/search?searchTerm=stimu.li) |
+| brocco.li | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=brocco.li) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=brocco.li) | [Google](https://domains.google.com/registrar/search?searchTerm=brocco.li) |

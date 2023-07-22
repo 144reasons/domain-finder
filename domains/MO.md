@@ -1,0 +1,20 @@
+# Possible domains for MO
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=.mo) |
+| de.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=de.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=de.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=de.mo) |
+| me.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=me.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=me.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=me.mo) |
+| pro.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pro.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pro.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=pro.mo) |
+| ho.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ho.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ho.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=ho.mo) |
+| co.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=co.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=co.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=co.mo) |
+| li.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=li.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=li.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=li.mo) |
+| i.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=i.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=i.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=i.mo) |
+| e.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=e.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=e.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=e.mo) |
+| turis.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=turis.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=turis.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=turis.mo) |
+| ala.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ala.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ala.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=ala.mo) |
+| ne.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ne.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ne.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=ne.mo) |
+| majordo.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=majordo.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=majordo.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=majordo.mo) |
+| am.mo | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=am.mo) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=am.mo) | [Google](https://domains.google.com/registrar/search?searchTerm=am.mo) |
