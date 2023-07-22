@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "see LICENSE",
-  "dependencies": {
-    "got": "^13.0.0"
-  }
+  "license": "see LICENSE"
 }

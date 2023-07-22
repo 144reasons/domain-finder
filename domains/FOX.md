@@ -4,5 +4,8 @@ No function implemented to check if any of these work, but you can check manuall
 
 | Domain | Porkbun | NameCheap | Google Domains |
 |---|---|---|---|
-| .fox | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.fox) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.fox) | [Google](https://domains.google.com/registrar/search?searchTerm=.fox) |
-| fire.fox | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=fire.fox) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=fire.fox) | [Google](https://domains.google.com/registrar/search?searchTerm=fire.fox) |
+| care.fox | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=care.fox) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=care.fox) | [Google](https://domains.google.com/registrar/search?searchTerm=care.fox) |
+| col.fox | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=col.fox) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=col.fox) | [Google](https://domains.google.com/registrar/search?searchTerm=col.fox) |
+| .fox | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.fox) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.fox) | [Google](https://domains.google.com/registrar/search?searchTerm=.fox) |
+| out.fox | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=out.fox) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=out.fox) | [Google](https://domains.google.com/registrar/search?searchTerm=out.fox) |
+| were.fox | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=were.fox) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=were.fox) | [Google](https://domains.google.com/registrar/search?searchTerm=were.fox) |

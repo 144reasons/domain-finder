@@ -4,5 +4,5 @@ No function implemented to check if any of these work, but you can check manuall
 
 | Domain | Porkbun | NameCheap | Google Domains |
 |---|---|---|---|
-| .zip | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.zip) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.zip) | [Google](https://domains.google.com/registrar/search?searchTerm=.zip) |
-| g.zip | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=g.zip) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=g.zip) | [Google](https://domains.google.com/registrar/search?searchTerm=g.zip) |
+| un.zip | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=un.zip) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=un.zip) | [Google](https://domains.google.com/registrar/search?searchTerm=un.zip) |
+| .zip | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.zip) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.zip) | [Google](https://domains.google.com/registrar/search?searchTerm=.zip) |

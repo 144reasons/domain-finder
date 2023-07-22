@@ -1,0 +1,8 @@
+# Possible domains for LUXURY
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .luxury | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.luxury) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.luxury) | [Google](https://domains.google.com/registrar/search?searchTerm=.luxury) |
+| semi.luxury | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=semi.luxury) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=semi.luxury) | [Google](https://domains.google.com/registrar/search?searchTerm=semi.luxury) |

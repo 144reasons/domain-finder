@@ -4,5 +4,6 @@ No function implemented to check if any of these work, but you can check manuall
 
 | Domain | Porkbun | NameCheap | Google Domains |
 |---|---|---|---|
-| s.vn | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=s.vn) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=s.vn) | [Google](https://domains.google.com/registrar/search?searchTerm=s.vn) |
-| .vn | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.vn) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.vn) | [Google](https://domains.google.com/registrar/search?searchTerm=.vn) |
+| a.vn | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=a.vn) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=a.vn) | [Google](https://domains.google.com/registrar/search?searchTerm=a.vn) |
+| fa.vn | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=fa.vn) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=fa.vn) | [Google](https://domains.google.com/registrar/search?searchTerm=fa.vn) |
+| mandrag.vn | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=mandrag.vn) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=mandrag.vn) | [Google](https://domains.google.com/registrar/search?searchTerm=mandrag.vn) |

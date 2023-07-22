@@ -1,0 +1,17 @@
+# Possible domains for CIRCLE
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=.circle) |
+| circum.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=circum.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=circum.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=circum.circle) |
+| demi.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=demi.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=demi.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=demi.circle) |
+| en.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=en.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=en.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=en.circle) |
+| ex.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ex.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ex.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=ex.circle) |
+| hemi.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=hemi.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=hemi.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=hemi.circle) |
+| in.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=in.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=in.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=in.circle) |
+| inter.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=inter.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=inter.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=inter.circle) |
+| re.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=re.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=re.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=re.circle) |
+| semi.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=semi.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=semi.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=semi.circle) |
+| under.circle | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=under.circle) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=under.circle) | [Google](https://domains.google.com/registrar/search?searchTerm=under.circle) |

@@ -1,0 +1,8 @@
+# Possible domains for MOE
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .moe | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.moe) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.moe) | [Google](https://domains.google.com/registrar/search?searchTerm=.moe) |
+| sch.moe | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=sch.moe) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=sch.moe) | [Google](https://domains.google.com/registrar/search?searchTerm=sch.moe) |

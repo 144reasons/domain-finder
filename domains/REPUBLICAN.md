@@ -1,0 +1,16 @@
+# Possible domains for REPUBLICAN
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| anti.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=anti.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=anti.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=anti.republican) |
+| ir.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ir.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ir.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=ir.republican) |
+| non.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=non.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=non.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=non.republican) |
+| pre.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pre.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pre.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=pre.republican) |
+| pro.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pro.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pro.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=pro.republican) |
+| pseudo.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pseudo.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pseudo.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=pseudo.republican) |
+| .republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=.republican) |
+| semi.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=semi.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=semi.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=semi.republican) |
+| ultra.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ultra.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ultra.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=ultra.republican) |
+| un.republican | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=un.republican) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=un.republican) | [Google](https://domains.google.com/registrar/search?searchTerm=un.republican) |

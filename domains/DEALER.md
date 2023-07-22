@@ -1,0 +1,17 @@
+# Possible domains for DEALER
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| book.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=book.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=book.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=book.dealer) |
+| coal.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=coal.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=coal.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=coal.dealer) |
+| .dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=.dealer) |
+| inter.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=inter.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=inter.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=inter.dealer) |
+| junk.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=junk.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=junk.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=junk.dealer) |
+| mis.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=mis.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=mis.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=mis.dealer) |
+| news.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=news.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=news.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=news.dealer) |
+| non.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=non.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=non.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=non.dealer) |
+| pre.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=pre.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=pre.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=pre.dealer) |
+| sub.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=sub.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=sub.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=sub.dealer) |
+| under.dealer | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=under.dealer) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=under.dealer) | [Google](https://domains.google.com/registrar/search?searchTerm=under.dealer) |

@@ -27,7 +27,7 @@ async function downloadAll() {
 // downloadAll()
 
 const TLDs = fs.readFileSync('./data/TLDs.txt').toString()
-const words = fs.readFileSync('./data/words.txt').toString()
+const words = fs.readFileSync('./data/words_alpha.txt').toString()
 
 let domains = {}
 
@@ -56,6 +56,7 @@ for (let [tld, fdomains] of Object.entries(domains)) {
 }
 
 console.log('Probably done')
+
 
 // https://www.namecheap.com/domains/registration/results/?domain=
 

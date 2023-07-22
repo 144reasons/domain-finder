@@ -4,6 +4,6 @@ No function implemented to check if any of these work, but you can check manuall
 
 | Domain | Porkbun | NameCheap | Google Domains |
 |---|---|---|---|
-| a.vg | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=a.vg) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=a.vg) | [Google](https://domains.google.com/registrar/search?searchTerm=a.vg) |
-| .vg | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.vg) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.vg) | [Google](https://domains.google.com/registrar/search?searchTerm=.vg) |
-| s.vg | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=s.vg) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=s.vg) | [Google](https://domains.google.com/registrar/search?searchTerm=s.vg) |
+| a.vg | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=a.vg) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=a.vg) | [Google](https://domains.google.com/registrar/search?searchTerm=a.vg) |
+| e.vg | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=e.vg) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=e.vg) | [Google](https://domains.google.com/registrar/search?searchTerm=e.vg) |
+| .vg | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.vg) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.vg) | [Google](https://domains.google.com/registrar/search?searchTerm=.vg) |

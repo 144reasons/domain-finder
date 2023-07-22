@@ -4,5 +4,7 @@ No function implemented to check if any of these work, but you can check manuall
 
 | Domain | Porkbun | NameCheap | Google Domains |
 |---|---|---|---|
-| .pro | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.pro) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.pro) | [Google](https://domains.google.com/registrar/search?searchTerm=.pro) |
-| inter.pro | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=inter.pro) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=inter.pro) | [Google](https://domains.google.com/registrar/search?searchTerm=inter.pro) |
+| ap.pro | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=ap.pro) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=ap.pro) | [Google](https://domains.google.com/registrar/search?searchTerm=ap.pro) |
+| .pro | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.pro) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.pro) | [Google](https://domains.google.com/registrar/search?searchTerm=.pro) |
+| re.pro | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=re.pro) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=re.pro) | [Google](https://domains.google.com/registrar/search?searchTerm=re.pro) |
+| semi.pro | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=semi.pro) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=semi.pro) | [Google](https://domains.google.com/registrar/search?searchTerm=semi.pro) |

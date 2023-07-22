@@ -1,0 +1,17 @@
+# Possible domains for CHANNEL
+
+No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
+
+| Domain | Porkbun | NameCheap | Google Domains |
+|---|---|---|---|
+| .channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=.channel) |
+| en.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=en.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=en.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=en.channel) |
+| inter.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=inter.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=inter.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=inter.channel) |
+| mid.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=mid.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=mid.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=mid.channel) |
+| multi.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=multi.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=multi.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=multi.channel) |
+| over.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=over.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=over.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=over.channel) |
+| re.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=re.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=re.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=re.channel) |
+| semi.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=semi.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=semi.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=semi.channel) |
+| sub.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=sub.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=sub.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=sub.channel) |
+| trans.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=trans.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=trans.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=trans.channel) |
+| up.channel | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=up.channel) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=up.channel) | [Google](https://domains.google.com/registrar/search?searchTerm=up.channel) |
