@@ -1,9 +1,8 @@
-# Possible domains for CANON
+# Possible domains for canon
 
 No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
 
 | Domain | Porkbun | NameCheap | Google Domains |
 |---|---|---|---|
-| .canon | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.canon) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.canon) | [Google](https://domains.google.com/registrar/search?searchTerm=.canon) |
-| demi.canon | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=demi.canon) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=demi.canon) | [Google](https://domains.google.com/registrar/search?searchTerm=demi.canon) |
-| nomo.canon | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=nomo.canon) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=nomo.canon) | [Google](https://domains.google.com/registrar/search?searchTerm=nomo.canon) |
+| demi.canon | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=demi.canon) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=demi.canon) | [Google](https://domains.google.com/registrar/search?searchTerm=demi.canon) |
+| nomo.canon | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=nomo.canon) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=nomo.canon) | [Google](https://domains.google.com/registrar/search?searchTerm=nomo.canon) |

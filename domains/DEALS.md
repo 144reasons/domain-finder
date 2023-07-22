@@ -1,10 +1,9 @@
-# Possible domains for DEALS
+# Possible domains for deals
 
 No function implemented to check if any of these work, but you can check manually with https://tld-list.com/
 
 | Domain | Porkbun | NameCheap | Google Domains |
 |---|---|---|---|
-| .deals | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=.deals) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=.deals) | [Google](https://domains.google.com/registrar/search?searchTerm=.deals) |
-| i.deals | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=i.deals) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=i.deals) | [Google](https://domains.google.com/registrar/search?searchTerm=i.deals) |
-| mis.deals | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=mis.deals) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=mis.deals) | [Google](https://domains.google.com/registrar/search?searchTerm=mis.deals) |
-| or.deals | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=or.deals) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=or.deals) | [Google](https://domains.google.com/registrar/search?searchTerm=or.deals) |
+| i.deals | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=i.deals) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=i.deals) | [Google](https://domains.google.com/registrar/search?searchTerm=i.deals) |
+| mis.deals | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=mis.deals) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=mis.deals) | [Google](https://domains.google.com/registrar/search?searchTerm=mis.deals) |
+| or.deals | [Porkbun](https://porkbun.com/checkout/search?prb=e814663da1&tlds=&idnLanguage=&search=search&q=or.deals) | [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=or.deals) | [Google](https://domains.google.com/registrar/search?searchTerm=or.deals) |
